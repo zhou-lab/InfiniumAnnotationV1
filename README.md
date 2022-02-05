@@ -1,1 +1,1 @@
-# InfiniumManifestsV1
+# Infinium Manifest Version 1
